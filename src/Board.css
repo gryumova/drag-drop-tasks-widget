@@ -1,0 +1,19 @@
+.board {
+    background-color: #b4d8fe;
+    margin: 50px 25px auto 25px;
+    width: 300px;
+    padding: 20px;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.nameBoard {
+    text-align: center;
+    margin: auto;
+    padding-bottom: 10px;
+}
+
+.dragging {
+    background-color: #b3fcaa;
+}
+

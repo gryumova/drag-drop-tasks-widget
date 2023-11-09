@@ -1,0 +1,25 @@
+.addBox {
+    background-color: #ffffff;
+    width: 100%;
+    margin: auto;
+    padding: 10px;
+    display: inline-block;
+}
+
+.addUser {
+    background-color: #b4d8fe;
+    width: 40%;
+    margin: auto;
+    margin-right: 140px;
+    margin-left: 50px;
+    padding: 10px;
+    display: inline-block;
+}
+
+.addTask {
+    background-color: #b4d8fe;
+    width: 40%;
+    margin: auto;
+    padding: 10px;
+    display: inline-block;
+}
