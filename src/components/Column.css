@@ -1,10 +1,13 @@
 .board {
     background-color: #b4d8fe;
     margin: 50px 25px auto 25px;
-    width: 300px;
+    min-width: 300px;
+    max-width: 300px;
+    min-height: 200px;
     padding: 20px;
     display: inline-block;
     vertical-align: top;
+    
 }
 
 .nameBoard {
