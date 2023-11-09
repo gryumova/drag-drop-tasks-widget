@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import Column from './components/Column'
+import Column from './Column'
 import { DragDropContext } from 'react-beautiful-dnd'
 
 function App () {
@@ -9,19 +9,19 @@ function App () {
       list: [{
               idTask: "1", 
               date: "26 May 2023 00:00",
-              task: "Закончить проект по Frontend-разработке",
+              task: "Себя не находя, себя создают!",
               img: "../images/Liza.jpg"
             }, 
             {
               idTask: "2", 
               date: "26 May 2023 00:00",
-              task: "Закончить проект по Backend-разработке",
+              task: "Трудись тихо, пусть успех будет шумом.",
               img: "../images/Liza.jpg"
             }, 
             {
               idTask: "3", 
               date: "26 May 2023 00:00",
-              task:"Еще одно какое то задание которое срочно нужно кому то сделать, але!",
+              task:"Через 20 лет вы будете больше разочарованы теми вещами, которые вы не делали, чем теми, которые вы сделали. Так отчальте от тихой пристани. Почувствуйте попутный ветер в вашем парусе. Двигайтесь вперед, действуйте, открывайте!",
               img: "../images/Liza.jpg"
             }]
     },
